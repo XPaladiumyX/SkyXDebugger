@@ -1,3 +1,8 @@
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/pTErYjTh5h)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://skyxnetwork.net)  
+
 # SkyXDebugger
 
 SkyXDebugger is a lightweight Bukkit/Spigot plugin for Paper 1.21+ servers that helps detect when an anvil output disappears or is cancelled by another plugin. It is especially useful for debugging custom items or conflicting plugins affecting anvils.
@@ -35,3 +40,4 @@ SkyXDebugger is a lightweight Bukkit/Spigot plugin for Paper 1.21+ servers that 
 ## License
 
 This project is licensed under the MIT License.
+

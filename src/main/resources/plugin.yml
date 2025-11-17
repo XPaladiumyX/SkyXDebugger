@@ -6,3 +6,12 @@ prefix: SkyXCore-Logger
 authors: [ XPaladiumyX ]
 description: Made with love and determination
 website: skyxnetwork.net
+commands:
+  skyxdebugger:
+    description: Enable or disable SkyXDebugger
+    usage: /skyxdebugger <enable|disable>
+    permission: skyxdebugger.use
+permissions:
+  skyxdebugger.use:
+    description: Allows using the /skyxdebugger command
+    default: op
